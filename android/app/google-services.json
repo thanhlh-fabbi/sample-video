@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "462887163719",
+    "project_id": "logintest-a09d8",
+    "storage_bucket": "logintest-a09d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462887163719:android:cd2e26a01810ba80e99e62",
+        "android_client_info": {
+          "package_name": "com.example.videowebview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462887163719-39kspepbr4rltrvbod9m1muotbjpasp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvqUqbf7lA9CJSiywj6KHRQIDxSg2npjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462887163719-39kspepbr4rltrvbod9m1muotbjpasp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
